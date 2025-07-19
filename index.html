@@ -3,110 +3,93 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Dr. Deepak Painuli - Portfolio</title>
+  <title>Dr. Deepak Painuli | Portfolio</title>
   <style>
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: #f4f4f4;
-      color: #333;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f2f5;
       margin: 0;
       padding: 0;
     }
-
     .container {
-      max-width: 1000px;
-      margin: 40px auto;
-      background: white;
+      max-width: 900px;
+      margin: 50px auto;
       padding: 40px;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      background-color: #ffffff;
       border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      text-align: center;
     }
-
     .profile-img {
-      width: 180px;
-      height: 180px;
+      width: 200px;
+      height: 200px;
       border-radius: 50%;
       object-fit: cover;
-      margin-bottom: 20px;
-      border: 4px solid #0077b5;
+      margin-bottom: 30px;
+      border: 4px solid #0073b1;
     }
-
     h1 {
-      font-size: 36px;
+      font-size: 38px;
       margin-bottom: 10px;
-      color: #0077b5;
+      color: #333;
     }
-
-    h2 {
-      font-size: 24px;
-      margin-bottom: 20px;
-      color: #444;
-    }
-
-    .section {
-      margin-top: 30px;
-    }
-
-    .section h3 {
+    h3 {
       font-size: 22px;
-      color: #0077b5;
-      border-bottom: 2px solid #0077b5;
-      padding-bottom: 5px;
-      margin-bottom: 15px;
+      color: #555;
+      margin-bottom: 25px;
     }
-
     p {
       font-size: 18px;
       line-height: 1.7;
+      color: #444;
     }
-
-    a {
-      color: #0077b5;
+    .links a {
+      display: inline-block;
+      margin: 15px 20px;
+      padding: 12px 20px;
+      background: #0073b1;
+      color: white;
+      border-radius: 8px;
       text-decoration: none;
-      word-break: break-word;
+      transition: background 0.3s ease;
+      font-size: 16px;
     }
-
-    .contact {
-      margin-top: 20px;
-      font-size: 18px;
+    .links a:hover {
+      background: #005f8d;
     }
-
     @media (max-width: 600px) {
-      .container {
-        padding: 20px;
+      .profile-img {
+        width: 140px;
+        height: 140px;
       }
-
       h1 {
         font-size: 28px;
       }
-
-      h2 {
-        font-size: 20px;
-      }
-
-      p, .contact {
-        font-size: 16px;
+      h3 {
+        font-size: 18px;
       }
     }
   </style>
 </head>
 <body>
-  <div class="container" align="center">
-    <img class="profile-img" src="https://github.com/someshsingh-7251/Dr.-Deepak-Painuli-Portfolio-/blob/main/Screenshot_20250719-115333.LinkedIn.png?raw=true" alt="Dr. Deepak Painuli" />
+  <div class="container">
+    <img 
+      src="https://github.com/someshsingh-7251/Dr.-Deepak-Painuli-Portfolio-/blob/main/Screenshot_20250719-115333.LinkedIn.png?raw=true"
+      alt="Dr. Deepak Painuli"
+      class="profile-img"
+    />
     <h1>Dr. Deepak Painuli</h1>
-    <h2>Head of Department, Computer Science & Engineering<br>COER University, Roorkee</h2>
+    <h3>Head of Department - Computer Science & Engineering, COER University</h3>
+    <p>
+      Dr. Deepak Painuli is the HOD of the Computer Science & Engineering Department at COER University, Roorkee.  
+      With years of experience in academia and leadership, he is passionate about empowering students with the latest technological trends and industry knowledge.  
+      He is an inspiration for students and plays a vital role in shaping the technical culture of the department.
+    </p>
 
-    <div class="section">
-      <h3>About</h3>
-      <p>
-        Dr. Deepak Painuli is an experienced academic leader, currently serving as the Head of the Computer Science & Engineering Department at COER University, Roorkee. With a strong academic background and leadership experience, he has been instrumental in shaping the department through innovative teaching methods, research initiatives, and fostering industry collaboration.
-      </p>
-    </div>
-
-    <div class="section">
-      <h3>Contact</h3>
-      <p class="contact">📧 Email: <a href="mailto:hod.cse@coeruniversity.ac.in">hod.cse@coeruniversity.ac.in</a></p>
-      <p class="contact">🔗 LinkedIn: <a href="https://www.linkedin.com/in/deepak-painuli" target="_blank">linkedin.com/in/deepak-painuli</a></p>
+    <div class="links">
+      <a href="mailto:hod.cse@coeruniversity.ac.in">📧 Email</a>
+      <a href="https://www.linkedin.com/in/deepak-painuli">🔗 LinkedIn</a>
+      <a href="https://github.com/someshsingh-7251/Dr.-Deepak-Painuli-Portfolio-">📂 GitHub Repo</a>
     </div>
   </div>
 </body>
