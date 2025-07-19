@@ -41,34 +41,21 @@ Developed and maintained by **Somesh Singh** as a tribute to his mentorship and 
 
 ## 🌐 Live Portfolio Website
 
-🔗 **Visit Now:**  
-[https://someshsingh-7251.github.io/Dr.-Deepak-Painuli-Portfolio-/](https://someshsingh-7251.github.io/Dr.-Deepak-Painuli-Portfolio-/)
+🔗 [Dr. Deepak Painuki](https://someshsingh-7251.github.io/Dr.-Deepak-Painuli-Portfolio-/)
+---
+
+## 🛠️ Technologies Used
+
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- ⚙️ **JavaScript**  
+- 💠 *(Optional: Bootstrap / Tailwind CSS — if used)* 
 
 ---
 
-## 🛠️ Built With
+## 🧑‍💻 Author
 
-- HTML5  
-- CSS3  
-- Google Fonts (Roboto)  
-- Clean & Responsive Design  
-
----
-
-## 🙌 Credits
-
-Developed with respect by **Somesh Singh**,  
+Developed with ❤️ by [Somesh Singh](https://www.linkedin.com/in/someshsingh-2aa796229/)
 B.Tech CSE, COER University, Roorkee  
 > "A token of appreciation for my teacher’s inspiration and guidance."
-
----
-
-## 🚀 Hosting Instructions (GitHub Pages)
-
-1. Fork or clone this repo  
-2. Commit any changes (if needed)  
-3. Go to `Settings > Pages` and select `main` branch & `/root`  
-4. Portfolio goes live at:  
-   `https://yourusername.github.io/Dr.-Deepak-Painuli-Portfolio-/`
-
----
+> Part of my journey as **Leader of the D-Coders Squad Web Development Club**.
