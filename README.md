@@ -41,7 +41,7 @@ Developed and maintained by **Somesh Singh** as a tribute to his mentorship and 
 
 ## 🌐 Live Portfolio Website
 
-🔗 [Dr. Deepak Painuki](https://someshsingh-7251.github.io/Dr.-Deepak-Painuli-Portfolio-/)
+🔗 [Dr. Deepak Painuli](https://someshsingh-7251.github.io/Dr.-Deepak-Painuli-Portfolio-/)
 ---
 
 ## 🛠️ Technologies Used
