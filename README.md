@@ -1,4 +1,6 @@
-# Dr. Deepak Painuli - Academic Portfolio Website
+![Project views](https://komarev.com/ghpvc/?username=someshsingh-7251)
+
+# Dr. Deepak Painuli - Portfolio Website
 
 This is a professional portfolio website for **Dr. Deepak Painuli**, Head of Department (Computer Science & Engineering) at **COER University, Roorkee**.
 
